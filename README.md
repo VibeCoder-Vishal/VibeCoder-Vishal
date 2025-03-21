@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="left">Hi, I'm Vishal R
+<h1 align="left">Hi, I'm Vishal
 <h3 align="left">ML Engineer | Data Scientist | MLOps Enthusiast</h3>
 
 ---
