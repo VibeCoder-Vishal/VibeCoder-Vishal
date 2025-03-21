@@ -20,7 +20,8 @@ I am a Machine Learning Engineer and Data Scientist who turns complex data into 
 <h3 align="left">🤝 Connect With Me</h3>
 <p align="left">
 </a>
-<a href="mailto:vishalr0524@gmail.com   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:vishalr0524@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
 
